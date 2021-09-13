@@ -38,7 +38,7 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "connect": "~3.7.0",
-    "connect-route": "^0.1.5",
+    "connect-route": "0.1.5",
     "ejs": "^2.5.5",
     "lodash": "^3.10.1",
     "rss": "^1.2.1",
