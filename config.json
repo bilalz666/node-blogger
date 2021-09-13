@@ -1,6 +1,6 @@
 {
     "blog": {
-        "name": "Your blog title",
+        "name": "test pbn",
         "description": "Getting stated with Node Blogger",
         "baseUrl": "/",
         "postsFolder": "./posts",
