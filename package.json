@@ -39,11 +39,11 @@
   "dependencies": {
     "connect": "~3.7.0",
     "connect-route": "0.1.5",
-    "ejs": "^2.5.5",
+    "ejs": "2.5.5",
     "lodash": "3.10.1",
-    "rss": "^1.2.1",
+    "rss": "1.2.1",
     "st": "~0.3.1",
-    "xml": "^1.0.0"
+    "xml": "1.0.0"
   },
   "devDependencies": {
     "clean-css": "3.3.9",
@@ -55,7 +55,7 @@
     "rss": "~0.0.4",
     "should": "~1.2.2",
     "slug": "0.9.1",
-    "uglify-js": "^2.4.24",
+    "uglify-js": "2.4.24",
     "xml": "~0.0.7"
   },
   "engines": {
